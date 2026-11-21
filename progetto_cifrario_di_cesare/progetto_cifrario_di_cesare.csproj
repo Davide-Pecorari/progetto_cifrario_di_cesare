@@ -8,4 +8,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\utente\Desktop\progetto_cifrario_di_cesare\Form1.cs" Link="Form1.cs" />
+  </ItemGroup>
+
 </Project>

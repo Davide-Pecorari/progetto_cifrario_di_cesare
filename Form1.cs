@@ -6,5 +6,11 @@ namespace progetto_cifrario_di_cesare
         {
             InitializeComponent();
         }
+
+        private void btn_cripta_Click(object sender, EventArgs e)
+        {
+            string testo = txt_stringa.Text;
+
+        }
     }
 }
